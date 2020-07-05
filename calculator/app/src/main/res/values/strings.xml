@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MYcalculator</string>
+    <string name="mycalculator">MYcalculator!</string>
+    <string name="plus">+</string>
+    <string name="multi">×</string>
+    <string name="division">÷</string>
+    <string name="minus">-</string>
+    <string name="num1">Num1</string>
+    <string name="num2">Num2</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="textview">ans</string>
+    <string name="copyright2020all_rights_reserved_kd_style">copyright2020All rights reserved. KD STYLE</string>
+    <string name="wait">wait...</string>
+    <string name="black_calculator">Black Calculator</string>
+    <string name="made_by_shubham_joshi">made by Shubham joshi</string>
+</resources>
